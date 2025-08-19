@@ -1,24 +1,3 @@
-{
-  "links": [
-    {
-      "title": "ПЛЕЙЛИСТ 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
-      "description": "Основной плейлист группы IPTV SHARED.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u",
-      "category": "Плейлисты"
-    },
-    {
-      "title": "МЕДИАТЕКА 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
-      "description": "Плейлист группы IPTV SHARED с передачами и сериалами",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/MEDIASHARED.m3u",
-      "category": "Плейлисты"
-    },
-   {
-      "title": "ПЛЕЙЛИСТ ТОРРЕНТ ТВ",
-      "description": "Плейлист Торрент ТВ, для работы необходимо наличие приложения AceStream",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/TOPPEHT_TB.m3u",
-      "category": "Плейлисты"
-    }
-],
   {
   "apps": [
   {
