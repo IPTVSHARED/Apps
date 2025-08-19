@@ -1,19 +1,19 @@
 {
   "links": [
     {
-      "title": "Пᴧᴇйᴧиᴄᴛ 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
+      "title": "ПЛЕЙЛИСТ 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
       "description": "Основной плейлист группы IPTV SHARED.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u",
       "category": "Плейлисты"
     },
     {
-      "title": "Мᥱдᥙᥲᴛᥱκᥲ 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
+      "title": "МЕДИАТЕКА 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
       "description": "Плейлист группы IPTV SHARED с передачами и сериалами",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/MEDIASHARED.m3u",
       "category": "Плейлисты"
     },
    {
-      "title": "Пᴧᴇйᴧиᴄᴛ Тᴏᴩᴩᴇнᴛ ТВ",
+      "title": "ПЛЕЙЛИСТ ТОРРЕНТ ТВ",
       "description": "Плейлист Торрент ТВ, для работы необходимо наличие приложения AceStream",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/TOPPEHT_TB.m3u",
       "category": "Плейлисты"
@@ -45,13 +45,13 @@
       "category": "Телевидение"
       },
          {
-      "title": "Ḿẏᴧᢸᴛɸӥᴧᢸʍӹ",
+      "title": "МУЛЬТФИЛЬМЫ",
       "description": "Приложение предлагает широкий выбор мультфильмов для детей всех возрастов. От классических советских мультфильмов до популярных зарубежных сериалов, таких как «Том и Джерри», «Утиные истории», «Русалочка», «Аладдин» и многих других.",
       "url": "https://www.dropbox.com/scl/fi/flaqf6745d1q9nm69x7pv/_v288.apk?rlkey=4wvqgw5phcyg2y25oklo0ua80&st=bmua7fz1&dl=1",
       "category": "Телевидение"
       },
          {
-      "title": "Эɸᥙρ ТВ+",
+      "title": "ЭФИР ТВ+",
       "description": "Смотрите российские каналы в прямом эфире в HD.",
       "url": "https://www.dropbox.com/scl/fi/zxzo0anvtgpqjuz81cjxn/_v4.1.0-Mod.apk?rlkey=4nq70zvo1fjugyjkzdowh9vn5&st=ybrl6v1q&dl=1",
       "category": "Телевидение"
