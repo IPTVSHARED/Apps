@@ -4,13 +4,13 @@
       "title": "LinkTV [GitHub]",
       "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitHub",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20%5BGitHub%5D.apk",
-      "category": "Телевидение [LinkTV]"
+      "category": "Телевидение"
     },
       {
       "title": "LinkTV [GitLab]",
       "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitLab может работать не во всех регионах РФ",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20%5BGitLab%5D.apk",
-      "category": "Телевидение [LinkTV]"
+      "category": "Телевидение"
     },
          {
       "title": "LinkTV v2.0",
@@ -21,7 +21,13 @@
       4. Медиатека - Передачи и сериалы.
 Имеет ограниченный функционал, обновления плейлистов только в ручную. Ссылка на плейлист с GitHub",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20v.2.0.apk",
-      "category": "Телевидение [LinkTV]"
+      "category": "Телевидение"
+      },
+         {
+      "title": "Мультфильмы",
+      "description": "Приложение предлагает широкий выбор мультфильмов для детей всех возрастов. От классических советских мультфильмов до популярных зарубежных сериалов, таких как «Том и Джерри», «Утиные истории», «Русалочка», «Аладдин» и многих других.",
+      "url": "https://drive.google.com/uc?export=download&id=1nVShCSGD1XIsb9c1bAB9mqY-mpgIqWx8",
+      "category": "Телевидение"
       }
     ]
     }
