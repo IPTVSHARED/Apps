@@ -1,33 +1,78 @@
+{
+  "links": [
+    {
+      "title": "Пᴧᴇйᴧиᴄᴛ 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
+      "description": "Основной плейлист группы IPTV SHARED.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u",
+      "category": "Плейлисты"
+    },
+    {
+      "title": "Мᥱдᥙᥲᴛᥱκᥲ 🄸🄿🅃🅅 🅂🄷🄰🅁🄴🄳",
+      "description": "Плейлист группы IPTV SHARED с передачами и сериалами",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/MEDIASHARED.m3u",
+      "category": "Плейлисты"
+    },
+   {
+      "title": "Пᴧᴇйᴧиᴄᴛ Тᴏᴩᴩᴇнᴛ ТВ",
+      "description": "Плейлист Торрент ТВ, для работы необходимо наличие приложения AceStream",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/TOPPEHT_TB.m3u",
+      "category": "Плейлисты"
+    }
+],
   {
   "apps": [
   {
-      "title": "LinkTV [GitHub]",
+      "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐇𝐮𝐛]",
       "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitHub",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20%5BGitHub%5D.apk",
       "category": "Телевидение"
     },
       {
-      "title": "LinkTV [GitLab]",
+      "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐋𝐚𝐛]",
       "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitLab может работать не во всех регионах РФ",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20%5BGitLab%5D.apk",
       "category": "Телевидение"
     },
          {
-      "title": "LinkTV v2.0",
+      "title": "𝐋𝐢𝐧𝐤𝐓𝐕 𝐯𝟐.𝟎",
       "description": "LinkTV v2.0 - не требует настройки после установки, встроены четыре плейлиста:
       1. Основной плейлист.
       2. Плейлист Забава - бесплатные эфирные каналы разбиты по регионам
-      3. Торрент ТВ - для работы не обходим AceStream
+      3. Т᧐ρρᥱнᴛ ТВ - д᧘я ρᥲδ᧐ᴛы нᥱ ᧐δх᧐дᥙʍ 𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦
       4. Медиатека - Передачи и сериалы.
 Имеет ограниченный функционал, обновления плейлистов только в ручную. Ссылка на плейлист с GitHub",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20v.2.0.apk",
       "category": "Телевидение"
       },
          {
-      "title": "Мультфильмы",
+      "title": "Ḿẏᴧᢸᴛɸӥᴧᢸʍӹ",
       "description": "Приложение предлагает широкий выбор мультфильмов для детей всех возрастов. От классических советских мультфильмов до популярных зарубежных сериалов, таких как «Том и Джерри», «Утиные истории», «Русалочка», «Аладдин» и многих других.",
-      "url": "https://drive.google.com/uc?export=download&id=1nVShCSGD1XIsb9c1bAB9mqY-mpgIqWx8",
+      "url": "https://www.dropbox.com/scl/fi/flaqf6745d1q9nm69x7pv/_v288.apk?rlkey=4wvqgw5phcyg2y25oklo0ua80&st=bmua7fz1&dl=1",
       "category": "Телевидение"
+      },
+         {
+      "title": "Эɸᥙρ ТВ+",
+      "description": "Смотрите российские каналы в прямом эфире в HD.",
+      "url": "https://www.dropbox.com/scl/fi/zxzo0anvtgpqjuz81cjxn/_v4.1.0-Mod.apk?rlkey=4nq70zvo1fjugyjkzdowh9vn5&st=ybrl6v1q&dl=1",
+      "category": "Телевидение"
+      },
+         {
+      "title": "𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦 𝐀𝐓𝐕",
+      "description": "Данное приложение служит исключительно в качестве узла децентрализованной системы CDN и выполняет роль менеджера мультимедийных потоков, для его использования сторонними сервисами и приложениями. Рекомендуется использовать на Android TV, Google TV.",
+      "url": "https://www.dropbox.com/scl/fi/ggqpvwqej1on54zj06gjd/AceStreamATVCore-3.1.67.3-armv7_mod.apk?rlkey=ed4qbj7kao94qdv11mnu4lzm9&st=99tgecol&dl=1",
+      "category": "Торрент"
+      },
+         {
+      "title": "𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦",
+      "description": "Данное приложение служит исключительно в качестве узла децентрализованной системы CDN и выполняет роль менеджера мультимедийных потоков, для его использования сторонними сервисами и приложениями. Рекомендуется использовать на AOSP прошивках",
+      "url": "https://www.dropbox.com/scl/fi/0jz4wlqeppgev9belstcd/AceStreamCore-3.1.67.3-armv7_mod.apk?rlkey=6fba0s7uzn2lwjcbk3fgta5kj&st=7wyms6au&dl=1",
+      "category": "Торрент"
+      },
+           {
+      "title": "𝐓𝐨𝐫𝐫𝐒𝐞𝐫𝐯𝐞",
+      "description": "Программа для просмотра торрент (фильма) онлайн или скачивать другие торрент файлы как http файл. Подключение к торренту идет локально, если ваш провайдер блокирует торренты, будьте осторожны. Кэш хранится в оперативной памяти, по этому не портится внутренняя память.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TorrServe_MatriX.135.Client-release.apk",
+      "category": "Торрент"
       }
     ]
     }
