@@ -3,13 +3,13 @@
   {
       "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐇𝐮𝐛]",
       "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitHub",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20%5BGitHub%5D.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV-(GitHub).apk",
       "category": "Телевидение"
     },
       {
       "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐋𝐚𝐛]",
       "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitLab может работать не во всех регионах РФ",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20%5BGitLab%5D.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV-(GitLab).apk",
       "category": "Телевидение"
     },
          {
@@ -20,7 +20,7 @@
       3. Т᧐ρρᥱнᴛ ТВ - д᧘я ρᥲδ᧐ᴛы нᥱ ᧐δх᧐дᥙʍ 𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦
       4. Медиатека - Передачи и сериалы.
 Имеет ограниченный функционал, обновления плейлистов только в ручную. Ссылка на плейлист с GitHub",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV%20v.2.0.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV_2.0.apk",
       "category": "Телевидение"
       },
          {
@@ -52,6 +52,36 @@
       "description": "Программа для просмотра торрент (фильма) онлайн или скачивать другие торрент файлы как http файл. Подключение к торренту идет локально, если ваш провайдер блокирует торренты, будьте осторожны. Кэш хранится в оперативной памяти, по этому не портится внутренняя память.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TorrServe_MatriX.135.Client-release.apk",
       "category": "Торрент"
-      }
+      },
+             {
+      "title": "𝐕𝐢𝐦𝐮 𝐯𝟏𝟎.𝟎",
+      "description": "Продвинутый медиаплеер для Android TV и Google TV устройств (телевизоров и ТВ-приставок). Работает DolbyVision.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Vimu_Media_Player-10.00-(arm-v7a).apk",
+      "category": "Медиаплееры"
+    } ,   
+              {
+      "title": "𝐕𝐢𝐦𝐮 𝐯𝟏𝟎.𝟎 𝐦𝐨𝐝 𝐒𝐓",
+      "description": "Продвинутый медиаплеер для Android TV и Google TV устройств (телевизоров и ТВ-приставок). Работает DolbyVision.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/VimuMediaPlayer.MD-10.00_arm7.apk",
+      "category": "Медиаплееры"
+    },
+       {
+      "title": "𝐕𝐢𝐦𝐮 𝐯𝟏𝟏.𝟎",
+      "description": "Продвинутый медиаплеер для Android TV и Google TV устройств (телевизоров и ТВ-приставок).",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Vimu_Media_Player-11.00-(arm-v7a).apk",
+      "category": "Медиаплееры"
+    },
+           {
+      "title": "𝐌𝐗 𝐏𝐥𝐚𝐲𝐞𝐫 𝐏𝐫𝐨 𝐯𝟏.𝟖𝟔.𝟎",
+      "description": "Мощный видеоплеер с аппаратным ускорением и поддержкой субтитров.",
+      "url": "https://www.dropbox.com/scl/fi/p1x3li0g0io55hor264tm/MX-Player-Pro-v1.86.0_build_2001002440-Mod-armeabi-v7a.apk?rlkey=sw1kwt2zdacwcxpqnhvlu6ksr&st=dmxcajfn&dl=1",
+      "category": "Медиаплееры"
+    },
+           {
+      "title": "𝐌𝐗 𝐏𝐥𝐚𝐲𝐞𝐫 𝐏𝐫𝐨 𝐯𝟏.𝟗𝟑.𝟒",
+      "description": "Мощный видеоплеер с аппаратным ускорением и поддержкой субтитров.",
+      "url": "https://www.dropbox.com/scl/fi/qt7l2rke0uxvs43ycmu3i/MX-Player-Pro-AMR7-v1.93.4.apk?rlkey=3x0jsws6v2hce4k4e1x8mjre9&st=76f3eqdq&dl=1",
+      "category": "Медиаплееры"
+    }
     ]
     }
