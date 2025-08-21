@@ -107,6 +107,12 @@
       "url": "https://www.dropbox.com/scl/fi/u6dkxhcs4y0pd8u1ly93r/ES_File_Explorer_4.4.3.1.apk?rlkey=prqhvtxg6cfudt7xn685xc9ou&st=qnhfc5ug&dl=1",
       "category": "Файловые менеджеры"
     },
+         {
+      "title": "𝐑𝐨𝐨𝐭 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫",
+      "description": "Файловый менеджер для Root пользователя.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/RootExplorer_v4.12.8.apk",
+      "category": "Файловые менеджеры"
+    },
            {
       "title": "𝐅𝐈𝐋𝐌𝐈𝐗 𝐔𝐇𝐃",
       "description": "Просмотр фильмов и сериалов с помощью AndroidTV и мобильных устройств. Для просмотра в качестве 720p требуется бесплатная регистрация, для просмотра в 1080p и 4k требуется платная подписка.",
@@ -178,7 +184,7 @@
          {
       "title": "𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐨𝐫 𝐎𝐓𝐓",
       "description": "OTT Navigator v1.7.3.2. Мощный и настраиваемый IPTV плеер.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/NUM_1.0.143.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/OTT_Navigator_v1.7.3.2.apk",
       "category": "IPTV Плееры"
     },
       {
@@ -219,15 +225,93 @@
     },
               {
       "title": "𝐑𝐮𝐒𝐭𝐨𝐫𝐞",
-      "description": "Клавиатура от Google.",
+      "description": "Отечественный магазин приложений от VK для Android устройств.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/RuStore_1.80.0.1.apk",
       "category": "Магазины приложений"
     },
             {
       "title": "𝐀𝐩𝐭𝐨𝐢𝐝𝐞𝐓𝐕",
-      "description": "Клавиатура от Google.",
+      "description": "Aptoide — независимый магазин приложений для Android с открытым исходным кодом, который позволяет вам устанавливать и находить приложения простым, увлекательным и безопасным способом.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Aptoide_TV_Mod_v.5.1.2.apk",
       "category": "Магазины приложений"
+    },
+          {
+      "title": "𝐁𝐲𝐞𝐁𝐲𝐞𝐃𝐏𝐈",
+      "description": "Обход блокировки YouTube. Приложение не является VPN. Оно использует VPN-режим на Android для перенаправления трафика, но не передает ничего на удаленный сервер. Оно не шифрует трафик и не скрывает ваш IP-адрес.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/ByeByeDPI-v1.6.5.apk",
+      "category": "Другие"
+    },
+          {
+      "title": "𝐓𝐞𝐦𝐩 𝐌𝐚𝐢𝐥",
+      "description": "Временная почта (Одноразовая почта).",
+      "url": "https://www.dropbox.com/scl/fi/3gyuyccrwy7c60ee9b3n0/TempMail_v4.02.apk?rlkey=p4ndleu0zh9hjnvcuuhicolu3&st=4qqpggg5&dl=1",
+      "category": "Другие"
+  },
+         {
+      "title": "𝐀𝐃𝐁 𝐓𝐕",
+      "description": "Новый менеджер приложений для Android TV. Удаляйте и отключайте приложения в пару кликов вашего пульта ДУ. Используйте все возможности ADB без ПК и очистите ваш ТВ от ресурсоёмких приложений, которые работают в фоне и замедляют систему.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/adbtv_1.11.apk",
+      "category": "Другие"
+    },
+        {
+      "title": "𝐀𝐈𝐃𝐀𝟔𝟒",
+      "description": "AIDA64 - популярная программа для вывода системной информации теперь на вашем Android устройстве.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Aida64_2.11.apk",
+      "category": "Другие"
+    },
+          {
+      "title": "𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐒𝐩𝐞𝐞𝐝 𝐓𝐞𝐬𝐭",
+      "description": "Internet Speed Test - Fiber Test - Проверка скорости интернета, поддержка пульта.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Internet_Speed_Test_1.23.12.14.apk",
+      "category": "Другие"
+    },
+       {
+      "title": "𝐑𝐀𝐃𝐈𝐎 𝐀𝐓𝐕",
+      "description": "Радио, поддержка пульта.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Radio_v2.3.1.apk",
+      "category": "Другие"
+    },
+         {
+      "title": "𝐏𝐨𝐰𝐞𝐫 𝐌𝐞𝐧𝐮",
+      "description": "Меню перезагрузки устройства в различные режимы, для работы необходимы права суперпользователя.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/PowerMenu.apk",
+      "category": "Другие"
+    },
+             {
+      "title": "𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐢𝐯𝐲 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐫",
+      "description": "Альтернативный лаунчер для Android TV, с ярлыками ввода, родительским контролем.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/ProjectivyLauncher_ST_4.67.apk",
+      "category": "Другие"
+    },
+          {
+      "title": "𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐫 𝐌𝐚𝐧𝐚𝐠𝐞𝐫",
+      "description": "Можно назначить любое приложение главного экрана, которые не имеют собственного параметра для установки главного экрана.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LM_ATV_1.0.4.apk",
+      "category": "Другие"
+    },
+        {
+      "title": "𝐓𝐕 𝐁𝐫𝐨",
+      "description": "Веб-браузер, оптимизированный для Android TV.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TV_Browser.apk",
+      "category": "Другие"
+    },
+         {
+      "title": "𝐭𝐯𝐐𝐮𝐢𝐜𝐤𝐀𝐜𝐭𝐢𝐨𝐧𝐬",
+      "description": "tvQuickActions позволяет назначить до 5 действий на одну кнопку пульта ДУ и добавить много полезных функций своему устройству.",
+      "url": "https://www.dropbox.com/scl/fi/9zoda2qqz621sv4v86ohe/tvQuickActions_Pro_v3.6.0_341.apk?rlkey=i6kx07wcxggj9rmkx0ue17743&st=y6ay3m9j&dl=1",
+      "category": "Другие"
+    },
+        {
+      "title": "𝐁𝐥𝐚𝐳𝐞",
+      "description": "Screensaver (заставка, хранитель экрана) камин, по умолчанию — включается камин •Королевские покои•.",
+      "url": "https://www.dropbox.com/scl/fi/i07rea102uyu3pyy15jan/Blaze_The_Royal_Chambers.apk?rlkey=xcx29g9senrbvzghuwmowarop&st=ikj399vw&dl=1",
+      "category": "Другие"
+    },
+       {
+      "title": "𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐚𝐯𝐞𝐫 𝐌𝐚𝐧𝐚𝐠𝐞𝐫",
+      "description": "Screensaver Manager - позволяет установить свою заставку на 14 андроиде, для работы должна быть включена отладка по USB",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/ScreensaverManager_1.0.2.apk",
+      "category": "Другие"
     }
     ]
     }
