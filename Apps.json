@@ -132,6 +132,24 @@
       "category": "Онлайн-Кинотеатры"
     },
         {
+      "title": "𝐙𝐨𝐧𝐚",
+      "description": "Зона — ваш персональный кинотеатр в кармане, где фильмы онлайн доступны 24 часа в сутки. 31 000 популярнейших фильмов с описанием и рейтингом. Зона покажет их вам, где бы вы не находились. смотреть фильмы онлайн с быстрым интернетом можно уже через пару минут.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Zona_2.1.71.apk",
+      "category": "Онлайн-Кинотеатры"
+    },
+         {
+      "title": "𝐏𝐫𝐢𝐬𝐦𝐚 𝐓𝐕",
+      "description": "Prisma TV — онлайн-кинотеатр для Андроид с огромным выбором фильмов и сериалов, который постоянно обновляется и дополняется новыми релизами. Это изменённая версия приложения Lampa, но в отличие от него, все модули поиска и воспроизведения уже интегрированы в приложение, а в конфигурации нужно лишь при необходимости настроить интерфейс под слабое устройство и выбрать плеер для воспроизведения контента (внешний или внутренний).",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Prisma_v0.7.2_fix.apk",
+      "category": "Онлайн-Кинотеатры"
+    },
+        {
+      "title": "𝐋𝐀𝐌𝐏𝐀",
+      "description": "Lampa - это удобный инструмент для ознакомления с новинками киноиндустрии, включая фильмы, сериалы, мультфильмы и другую информацию.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LAMPA_v1.12.2.apk",
+      "category": "Онлайн-Кинотеатры"
+    },
+        {
       "title": "𝐊𝐢𝐧𝐨𝐓𝐫𝐞𝐧𝐝",
       "description": "KinoTrend – это приложение, с помощью которого вы сможете найти и посмотреть новые фильмы в хорошем качестве (торренты), появившиеся за последние несколько месяцев. В приложении нет «экранок» и фильмов в качестве ниже FHD, оно предоставляет только magnet-ссылки на фильмы в максимальном качестве FHD и UHD (4K) с профессиональным дубляжом,закадровым переводом. Для просмотра торрентов онлайн потребуется установленный сервер TorrServe.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/KinoTrend_2.3.8.apk",
@@ -144,6 +162,36 @@
 - Для просмотра торрентов онлайн потребуется установленный сервер TorrServe.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/NUM_1.0.143.apk",
       "category": "Онлайн-Кинотеатры"
+    },
+        {
+      "title": "𝐓𝐞𝐥𝐞𝐯𝐢𝐳𝐨",
+      "description": "Televizo v1.9.3.21. IPTV видеоплеер для Android телефона, планшета или телевизора.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Televizo_1.9.3.21.apk",
+      "category": "IPTV Плееры"
+    },
+       {
+      "title": "𝐓𝐢𝐯𝐢𝐌𝐚𝐭𝐞",
+      "description": "TiviMate v2.1.5 Premium. IPTV/OTT плеер для Андроид-приставок.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TiviMate_2.1.5_CMist_Premium_v2.apk",
+      "category": "IPTV Плееры"
+    },
+         {
+      "title": "𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐨𝐫 𝐎𝐓𝐓",
+      "description": "OTT Navigator v1.7.3.2. Мощный и настраиваемый IPTV плеер.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/NUM_1.0.143.apk",
+      "category": "IPTV Плееры"
+    },
+      {
+      "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟎𝟗.𝟑𝟎𝟎",
+      "description": "Регулировка громкости работает на всех устройствах и прошивках. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
+      "url": "https://www.dropbox.com/scl/fi/i2fnmfkzw5z77empxftcp/YouTubeTV_6.09.300.apk?rlkey=f50k30hw0c8lywj1z0bdt96h5&st=pvhtuip0&dl=1",
+      "category": "YouTube for Android TV"
+    },
+     {
+      "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟏𝟔.𝟑𝟎𝟎",
+      "description": "Регулировка громкости работает только на Google TV. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
+      "url": "https://www.dropbox.com/scl/fi/509j6oiuviauzpy2qepx8/YouTubeTV_6.16.300.apk?rlkey=k8bb5ttja55vqwyfwikkc4gvw&st=3xtek0o5&dl=1",
+      "category": "YouTube for Android TV"
     }
     ]
     }
