@@ -182,6 +182,12 @@
       "category": "IPTV Плееры"
     },
       {
+      "title": "𝐌𝟑𝐔 𝐈𝐏𝐓𝐕",
+      "description": "M3U IPTV v3.07 Premium — это приложение-плеер, которое не предоставляет собственные каналы или контент. Чтобы смотреть каналы, добавьте плейлист M3U от вашего IPTV-провайдера.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/M3U_IPTV_v3.0.7_Premium.apk",
+      "category": "IPTV Плееры"
+    },
+      {
       "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟎𝟗.𝟑𝟎𝟎",
       "description": "Регулировка громкости работает на всех устройствах и прошивках. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
       "url": "https://www.dropbox.com/scl/fi/i2fnmfkzw5z77empxftcp/YouTubeTV_6.09.300.apk?rlkey=f50k30hw0c8lywj1z0bdt96h5&st=pvhtuip0&dl=1",
@@ -192,6 +198,36 @@
       "description": "Регулировка громкости работает только на Google TV. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
       "url": "https://www.dropbox.com/scl/fi/509j6oiuviauzpy2qepx8/YouTubeTV_6.16.300.apk?rlkey=k8bb5ttja55vqwyfwikkc4gvw&st=3xtek0o5&dl=1",
       "category": "YouTube for Android TV"
+    },
+         {
+      "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐊𝐢𝐝𝐬 𝐓𝐕",
+      "description": "Официальное приложение YouTube для детей.",
+      "url": "https://www.dropbox.com/scl/fi/z1va93d831wzlv6mh2u66/YouTube_Kids_1.21.01.apk?rlkey=j7uw70xqdmfamlbi20zj3qczx&st=xu30raab&dl=1",
+      "category": "YouTube for Android TV"
+    },
+        {
+      "title": "𝐋𝐞𝐚𝐧𝐊𝐞𝐲 𝐊𝐞𝐲𝐛𝐨𝐚𝐫𝐝",
+      "description": "Лучшая клавиатура для Андроид-приставок.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LeanKey_Keyboard_Pro_6.1.20.apk",
+      "category": "Клавиатуры"
+    },
+          {
+      "title": "𝐆𝐛𝐨𝐚𝐫𝐝",
+      "description": "Клавиатура от Google.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Gboard_tv-15.1.01.720474187.apk",
+      "category": "Клавиатуры"
+    },
+              {
+      "title": "𝐑𝐮𝐒𝐭𝐨𝐫𝐞",
+      "description": "Клавиатура от Google.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/RuStore_1.80.0.1.apk",
+      "category": "Магазины приложений"
+    },
+            {
+      "title": "𝐀𝐩𝐭𝐨𝐢𝐝𝐞𝐓𝐕",
+      "description": "Клавиатура от Google.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Aptoide_TV_Mod_v.5.1.2.apk",
+      "category": "Магазины приложений"
     }
     ]
     }
