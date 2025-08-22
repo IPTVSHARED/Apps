@@ -116,13 +116,13 @@
            {
       "title": "𝐅𝐈𝐋𝐌𝐈𝐗 𝐔𝐇𝐃",
       "description": "Просмотр фильмов и сериалов с помощью AndroidTV и мобильных устройств. Для просмотра в качестве 720p требуется бесплатная регистрация, для просмотра в 1080p и 4k требуется платная подписка.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Filmix_UHD_2.2.8_noAds.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Filmix_UHD_noAds.apk",
       "category": "Онлайн-Кинотеатры"
     },
          {
       "title": "𝐅𝐈𝐋𝐌𝐈𝐗 𝐇𝐃 𝐋𝐢𝐭𝐞 𝐦𝐨𝐝",
       "description": "Просмотр фильмов и сериалов с помощью AndroidTV и мобильных устройств. Качество только 720p. Для просмотра в качестве 720p требуется бесплатная регистрация.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Filmix_HD_v_2.2.8_Lite_Mod_NoAds.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Filmix_HD_Lite_Mod_NoAds.apk",
       "category": "Онлайн-Кинотеатры"
     },
         {
@@ -197,19 +197,31 @@
       "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟎𝟗.𝟑𝟎𝟎",
       "description": "Регулировка громкости работает на всех устройствах и прошивках. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
       "url": "https://www.dropbox.com/scl/fi/i2fnmfkzw5z77empxftcp/YouTubeTV_6.09.300.apk?rlkey=f50k30hw0c8lywj1z0bdt96h5&st=pvhtuip0&dl=1",
-      "category": "YouTube for Android TV"
+      "category": "Видеохостинги"
     },
      {
       "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟏𝟔.𝟑𝟎𝟎",
       "description": "Регулировка громкости работает только на Google TV. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
       "url": "https://www.dropbox.com/scl/fi/509j6oiuviauzpy2qepx8/YouTubeTV_6.16.300.apk?rlkey=k8bb5ttja55vqwyfwikkc4gvw&st=3xtek0o5&dl=1",
-      "category": "YouTube for Android TV"
+      "category": "Видеохостинги"
     },
          {
       "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐊𝐢𝐝𝐬 𝐓𝐕",
       "description": "Официальное приложение YouTube для детей.",
       "url": "https://www.dropbox.com/scl/fi/z1va93d831wzlv6mh2u66/YouTube_Kids_1.21.01.apk?rlkey=j7uw70xqdmfamlbi20zj3qczx&st=xu30raab&dl=1",
-      "category": "YouTube for Android TV"
+      "category": "Видеохостинги"
+    },
+     {
+      "title": "𝐑𝐮𝐓𝐮𝐛𝐞",
+      "description": "Официальное приложение YouTube для детей.",
+      "url": "https://www.dropbox.com/scl/fi/xo15dzx7fzor26d9mnlve/RuTube_TV.apk?rlkey=v5hljqus2nowrm35ml3c4wxes&st=rb2slkrj&dl=1",
+      "category": "Видеохостинги"
+    },
+      {
+      "title": "𝐕𝐊 Видео",
+      "description": "Официальное приложение YouTube для детей.",
+      "url": "https://www.dropbox.com/scl/fi/544iuf3jcjradrxze9aib/VK_.apk?rlkey=dsrnlwglm718h33g1oqr1794m&st=j71umzj0&dl=1",
+      "category": "Видеохостинги"
     },
         {
       "title": "𝐋𝐞𝐚𝐧𝐊𝐞𝐲 𝐊𝐞𝐲𝐛𝐨𝐚𝐫𝐝",
@@ -263,6 +275,12 @@
       "title": "𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐒𝐩𝐞𝐞𝐝 𝐓𝐞𝐬𝐭",
       "description": "Internet Speed Test - Fiber Test - Проверка скорости интернета, поддержка пульта.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Internet_Speed_Test_1.23.12.14.apk",
+      "category": "Другие"
+    },
+         {
+      "title": "𝐚𝐧𝐚𝐥𝐢𝐭𝐢",
+      "description": "Мощный набор инструментов для тестирования и анализа сетей.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/analiti.apk",
       "category": "Другие"
     },
        {
