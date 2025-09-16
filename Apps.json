@@ -29,6 +29,13 @@
       "url": "https://www.dropbox.com/scl/fi/zxzo0anvtgpqjuz81cjxn/_v4.1.0-Mod.apk?rlkey=4nq70zvo1fjugyjkzdowh9vn5&st=ybrl6v1q&dl=1",
       "category": "Телевидение"
       },
+              {
+      "title": "𝐖𝐢𝐧𝐤 𝐀𝐓𝐕 𝐂𝐥𝐨𝐧𝐞 𝟏.𝟔𝟕.𝟏",
+      "description": "Модификация Wink. В качестве базы мода используется старая версия приложения 1.38.1, но для сохранения работоспособности номер сборки завышен до 1.67.1. Версия для Android TV. 
+Модификация. Отключена реклама. Разблокирован архив эфира, бесплатно доступна часть каналов.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Wink_ATV_1.67.1_Clone.apk",
+      "category": "Телевидение"
+      },
          {
       "title": "𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦 𝐀𝐓𝐕",
       "description": "Данное приложение служит исключительно в качестве узла децентрализованной системы CDN и выполняет роль менеджера мультимедийных потоков, для его использования сторонними сервисами и приложениями. Рекомендуется использовать на Android TV, Google TV.",
@@ -59,10 +66,16 @@
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/VimuMediaPlayer.MD-10.00_arm7.apk",
       "category": "Медиаплееры"
     },
+              {
+      "title": "𝐕𝐢𝐦𝐮 𝐯𝟏𝟎.𝟏𝟎 𝐦𝐨𝐝 𝐒𝖙𝖗𝖆𝖓𝖓𝖎𝖐",
+      "description": "Продвинутый медиаплеер для Android TV и Google TV устройств (телевизоров и ТВ-приставок). Работает DolbyVision.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Vimu_10.10_arm7_strannik.apk",
+      "category": "Медиаплееры"
+    },
        {
-      "title": "𝐕𝐢𝐦𝐮 𝐯𝟏𝟏.𝟎",
+      "title": "𝐕𝐢𝐦𝐮 𝟏𝟏.𝟏",
       "description": "Продвинутый медиаплеер для Android TV и Google TV устройств (телевизоров и ТВ-приставок).",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Vimu_Media_Player-11.00-(arm-v7a).apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Vimu_11.01_(ARMv7).apk",
       "category": "Медиаплееры"
     },
            {
