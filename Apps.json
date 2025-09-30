@@ -3,7 +3,13 @@
   {
       "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐇𝐮𝐛]",
       "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitHub",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV-(GitHub).apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV_GitHab.apk",
+      "category": "Телевидение"
+    },
+    {
+      "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐋𝐚𝐛]",
+      "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitLab",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV_GitLab.apk",
       "category": "Телевидение"
     },
          {
