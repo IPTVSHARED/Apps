@@ -42,6 +42,20 @@
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Wink_ATV_1.67.1_Clone.apk",
       "category": "Телевидение"
       },
+      {
+      "title": "𝐀𝐥𝐩𝐡𝐚 𝐁𝐚𝐜𝐤𝐮𝐩",
+      "description": "Мощный инструмент резервного копирования и управления приложениями, для резервирования данных требуется root.
+Модификация. Patched by Balatan.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/AlphaBackupPro.apk",
+      "category": "Резервирование данных"
+      },
+      {
+      "title": "𝐓𝐢𝐭𝐚𝐧𝐢𝐮𝐦 𝐁𝐚𝐜𝐤𝐮𝐩",
+      "description": "Titanium Backup
+Версия: 8.4.0.2 Mod Lite + Material Theme. Бэкап и восстановление пользовательских и системных приложений, пользовательских данных и т.д. Для функционирования программы необходимы root права.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TitaniumBackup.apk",
+      "category": "Резервирование данных"
+      },
          {
       "title": "𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦 𝐀𝐓𝐕",
       "description": "Данное приложение служит исключительно в качестве узла децентрализованной системы CDN и выполняет роль менеджера мультимедийных потоков, для его использования сторонними сервисами и приложениями. Рекомендуется использовать на Android TV, Google TV.",
