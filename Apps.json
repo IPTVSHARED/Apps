@@ -57,15 +57,25 @@
       "category": "Резервирование данных"
       },
          {
-      "title": "𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦 𝐀𝐓𝐕",
-      "description": "Данное приложение служит исключительно в качестве узла децентрализованной системы CDN и выполняет роль менеджера мультимедийных потоков, для его использования сторонними сервисами и приложениями. Рекомендуется использовать на Android TV, Google TV.",
-      "url": "https://www.dropbox.com/scl/fi/ggqpvwqej1on54zj06gjd/AceStreamATVCore-3.1.67.3-armv7_mod.apk?rlkey=ed4qbj7kao94qdv11mnu4lzm9&st=99tgecol&dl=1",
+      "title": "𝐀𝐜𝐞 𝐒𝐞𝐫𝐯𝐞 𝟏.𝟎",
+      "description": "AceStrem Server для просмотра Торрент ТВ
+- это сервер (не плеер)
+- версия AceStrem Engine (3.2.8)
+- нет рекламы и пауз
+- автоматический старт при старте Android
+- версия ARM7 для 32-битных систем ",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/vnly1zzkirl7j2g00ll69/aceserve_1.0_armeabi-v7a.apk?rlkey=8b28fh3jc8d0rjo81yz1j77pu&st=z8o7otrh&dl=1",
       "category": "Торрент"
       },
          {
-      "title": "𝐀𝐜𝐞𝐒𝐭𝐫𝐞𝐚𝐦",
-      "description": "Данное приложение служит исключительно в качестве узла децентрализованной системы CDN и выполняет роль менеджера мультимедийных потоков, для его использования сторонними сервисами и приложениями. Рекомендуется использовать на AOSP прошивках",
-      "url": "https://www.dropbox.com/scl/fi/0jz4wlqeppgev9belstcd/AceStreamCore-3.1.67.3-armv7_mod.apk?rlkey=6fba0s7uzn2lwjcbk3fgta5kj&st=7wyms6au&dl=1",
+      "title": "𝔸𝕔𝕖 𝕊𝕖𝕣𝕧𝕖 𝟙.𝟘",
+      "description": "AceStrem Server для просмотра Торрент ТВ
+- это сервер (не плеер)
+- версия AceStrem Engine (3.2.8)
+- нет рекламы и пауз
+- автоматический старт при старте Android
+- версия ARMv8 для 64-битных систем",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/9n666r8zn7fussbt4dygd/aceserve_1.0_arm64.apk?rlkey=m4jy58jo6se845ononhxrye2j&st=e211m3kg&dl=1",
       "category": "Торрент"
       },
            {
