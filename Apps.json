@@ -104,7 +104,13 @@
     },
        {
       "title": "𝐕𝐢𝐦𝐮 𝟏𝟏.𝟏",
-      "description": "Продвинутый медиаплеер для Android TV и Google TV устройств (телевизоров и ТВ-приставок).",
+      "description": "Продвинутый медиаплеер для Android TV и Google TV устройств (телевизоров и ТВ-приставок).
+Mod Info:
+- Отключена аналитика,
+- Отключено Log
+- Удалено лишнее в манифесте
+- Удалены дубликаты графики
++ Инфо об устройстве.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Vimu_11.01_(ARMv7).apk",
       "category": "Медиаплееры"
     },
@@ -243,9 +249,9 @@
       "category": "Видеохостинги"
     },
      {
-      "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟏𝟔.𝟑𝟎𝟎",
+      "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟐𝟒.𝟑𝟎𝟑",
       "description": "Регулировка громкости работает только на Google TV. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
-      "url": "https://www.dropbox.com/scl/fi/509j6oiuviauzpy2qepx8/YouTubeTV_6.16.300.apk?rlkey=k8bb5ttja55vqwyfwikkc4gvw&st=3xtek0o5&dl=1",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/qrg33a16p3oo762sffrge/YouTube_6.24.303.apk?rlkey=svgihh6odrubzy2gbmepzpxql&st=1qbd8r3d&dl=1",
       "category": "Видеохостинги"
     },
          {
@@ -338,41 +344,65 @@
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/PowerMenu.apk",
       "category": "Другие"
     },
-             {
+    {
       "title": "𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐢𝐯𝐲 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐫",
       "description": "Альтернативный лаунчер для Android TV, с ярлыками ввода, родительским контролем.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/ProjectivyLauncher_ST_4.67.apk",
       "category": "Другие"
     },
-          {
+    {
       "title": "𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐫 𝐌𝐚𝐧𝐚𝐠𝐞𝐫",
       "description": "Можно назначить любое приложение главного экрана, которые не имеют собственного параметра для установки главного экрана.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LM_ATV_1.0.4.apk",
       "category": "Другие"
     },
-        {
-      "title": "𝐓𝐕 𝐁𝐫𝐨",
-      "description": "Веб-браузер, оптимизированный для Android TV.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TV_Browser.apk",
-      "category": "Другие"
-    },
-         {
+    {
       "title": "𝐭𝐯𝐐𝐮𝐢𝐜𝐤𝐀𝐜𝐭𝐢𝐨𝐧𝐬",
       "description": "tvQuickActions позволяет назначить до 5 действий на одну кнопку пульта ДУ и добавить много полезных функций своему устройству.",
       "url": "https://www.dropbox.com/scl/fi/9zoda2qqz621sv4v86ohe/tvQuickActions_Pro_v3.6.0_341.apk?rlkey=i6kx07wcxggj9rmkx0ue17743&st=y6ay3m9j&dl=1",
       "category": "Другие"
     },
-        {
+    {
       "title": "𝐁𝐥𝐚𝐳𝐞",
       "description": "Screensaver (заставка, хранитель экрана) камин, по умолчанию — включается камин •Королевские покои•.",
       "url": "https://www.dropbox.com/scl/fi/i07rea102uyu3pyy15jan/Blaze_The_Royal_Chambers.apk?rlkey=xcx29g9senrbvzghuwmowarop&st=ikj399vw&dl=1",
       "category": "Другие"
     },
-       {
+    {
       "title": "𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐚𝐯𝐞𝐫 𝐌𝐚𝐧𝐚𝐠𝐞𝐫",
       "description": "Screensaver Manager - позволяет установить свою заставку на 14 андроиде, для работы должна быть включена отладка по USB",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/ScreensaverManager_1.0.2.apk",
       "category": "Другие"
+    },
+    {
+      "title": "𝐓𝐕 𝐁𝐫𝐨",
+      "description": "Веб-браузер, оптимизированный для Android TV.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TV_Browser.apk",
+      "category": "Web Браузеры"
+    },
+    {
+      "title": "𝐂𝐨𝐣𝐢 𝐓𝐕 𝐁𝐫𝐨𝐰𝐬𝐞𝐫",
+      "description": "Умный веб-браузер для Android TV. Он работает на телевизорах и ТВ-боксах.",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/3k5ucbzfwp17u5ohiofjb/Coji-TVBrowser-1.8.2.apk?rlkey=psnnqq8qt0vw0n1x7kkh9njyv&st=ufo6gz7m&dl=1",
+      "category": "Web Браузеры"
+    },
+    {
+      "title": "𝐕𝐈𝐀 𝐁𝐫𝐨𝐰𝐬𝐞𝐫",
+      "description": "Via браузер – Легкий и быстрый.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Via_5.5.1.apk",
+      "category": "Web Браузеры"
+    },
+    {
+      "title": "𝐏𝐮𝐟𝐟𝐢𝐧 𝐓𝐕 𝐁𝐫𝐨𝐰𝐬𝐞𝐫",
+      "description": "Быстрый браузер-анонимизатор, с поддержкой Adobe flash и зашифрованным трафиком.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Puffin_TV.apk",
+      "category": "Web Браузеры"
+    },
+    {
+      "title": "𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐡𝐫𝐨𝐦𝐞",
+      "description": "Google Chrome – это удобный, быстрый и безопасный браузер. Он создан специально для Android. В Chrome вам доступны персонализированные новости, быстрый переход на любимые сайты, скачивание контента, а также встроенные Google Поиск и Google Переводчик.",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/0w3ycgp4n8qdi9i76bvax/Chrome_v57-0-2987-132.apk?rlkey=1cgh85qnwjpvravg68pz5vvdo&st=vudslnws&dl=1",
+      "category": "Web Браузеры"
     }
     ]
     }
