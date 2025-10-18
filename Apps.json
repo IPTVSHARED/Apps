@@ -1,38 +1,15 @@
 {
   "apps": [
   {
-      "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐇𝐮𝐛]",
-      "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitHub",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV_GitHab.apk",
-      "category": "Телевидение"
-    },
-    {
-      "title": "𝐋𝐢𝐧𝐤𝐓𝐕 [𝐆𝐢𝐭𝐋𝐚𝐛]",
-      "description": "LinkTV - это мод приложения Televizo со встроенным плейлистом, сохранены все функции оригинального Televizo, ссылка на плейлист с GitLab",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV_GitLab.apk",
-      "category": "Телевидение"
-    },
-         {
-      "title": "𝐋𝐢𝐧𝐤𝐓𝐕 𝐯𝟐.𝟎",
-      "description": "LinkTV v2.0 - не требует настройки после установки, встроены четыре плейлиста:
-      1. Основной плейлист.
-      2. Плейлист Забава - бесплатные эфирные каналы разбиты по регионам.
-      3. Торрент ТВ - для работы необходим AceStream.
-      4. Медиатека - Передачи и сериалы.
-Имеет ограниченный функционал, обновления плейлистов только в ручную. Ссылка на плейлист с GitHub",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LinkTV_2.0.apk",
+      "title": "ЭФИР ТВ+",
+      "description": "Смотрите российские каналы в прямом эфире в HD.",
+      "url": "https://www.dropbox.com/scl/fi/zxzo0anvtgpqjuz81cjxn/_v4.1.0-Mod.apk?rlkey=4nq70zvo1fjugyjkzdowh9vn5&st=ybrl6v1q&dl=1",
       "category": "Телевидение"
       },
          {
       "title": "МУЛЬТФИЛЬМЫ",
       "description": "Приложение предлагает широкий выбор мультфильмов для детей всех возрастов. От классических советских мультфильмов до популярных зарубежных сериалов, таких как «Том и Джерри», «Утиные истории», «Русалочка», «Аладдин» и многих других.",
       "url": "https://dl.dropboxusercontent.com/scl/fi/y05cbie8d2ha798xgpvhp/cartoons.apk?rlkey=0edbwa2n6w4a6rf9zuulkvsm1&st=ydyfl5r0&dl=1",
-      "category": "Телевидение"
-      },
-         {
-      "title": "ЭФИР ТВ+",
-      "description": "Смотрите российские каналы в прямом эфире в HD.",
-      "url": "https://www.dropbox.com/scl/fi/zxzo0anvtgpqjuz81cjxn/_v4.1.0-Mod.apk?rlkey=4nq70zvo1fjugyjkzdowh9vn5&st=ybrl6v1q&dl=1",
       "category": "Телевидение"
       },
               {
