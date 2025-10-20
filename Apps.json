@@ -94,13 +94,13 @@ Mod Info:
            {
       "title": "𝐌𝐗 𝐏𝐥𝐚𝐲𝐞𝐫 𝐏𝐫𝐨 𝐯𝟏.𝟖𝟔.𝟎",
       "description": "Мощный видеоплеер с аппаратным ускорением и поддержкой субтитров.",
-      "url": "https://www.dropbox.com/scl/fi/p1x3li0g0io55hor264tm/MX-Player-Pro-v1.86.0_build_2001002440-Mod-armeabi-v7a.apk?rlkey=sw1kwt2zdacwcxpqnhvlu6ksr&st=dmxcajfn&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/MX_Player_Pro-v1.86.0_build_2001002440-Mod-armeabi-v7a.apk?ref_type=heads&inline=false",
       "category": "Медиаплееры"
     },
            {
       "title": "𝐌𝐗 𝐏𝐥𝐚𝐲𝐞𝐫 𝐏𝐫𝐨 𝐯𝟏.𝟗𝟑.𝟒",
       "description": "Мощный видеоплеер с аппаратным ускорением и поддержкой субтитров.",
-      "url": "https://www.dropbox.com/scl/fi/qt7l2rke0uxvs43ycmu3i/MX-Player-Pro-AMR7-v1.93.4.apk?rlkey=3x0jsws6v2hce4k4e1x8mjre9&st=76f3eqdq&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/MX-Player-Pro-AMR7-v1.93.4.apk?ref_type=heads&inline=false",
       "category": "Медиаплееры"
     },
              {
@@ -124,7 +124,7 @@ Mod Info:
             {
       "title": "𝐄𝐒 𝐅𝐢𝐥𝐞 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫",
       "description": "Один из лучших файлменеджеров.",
-      "url": "https://www.dropbox.com/scl/fi/u6dkxhcs4y0pd8u1ly93r/ES_File_Explorer_4.4.3.1.apk?rlkey=prqhvtxg6cfudt7xn685xc9ou&st=qnhfc5ug&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/ES_File_Explorer_4.4.3.1.apk?ref_type=heads&inline=false",
       "category": "Файловые менеджеры"
     },
          {
@@ -383,7 +383,7 @@ Mod Info:
     {
       "title": "𝐂𝐨𝐣𝐢 𝐓𝐕 𝐁𝐫𝐨𝐰𝐬𝐞𝐫",
       "description": "Умный веб-браузер для Android TV. Он работает на телевизорах и ТВ-боксах.",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/3k5ucbzfwp17u5ohiofjb/Coji-TVBrowser-1.8.2.apk?rlkey=psnnqq8qt0vw0n1x7kkh9njyv&st=ufo6gz7m&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/Coji-TVBrowser-1.8.2.apk?ref_type=heads&inline=false",
       "category": "Web Браузеры"
     },
     {
@@ -401,7 +401,7 @@ Mod Info:
     {
       "title": "𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐡𝐫𝐨𝐦𝐞",
       "description": "Google Chrome – это удобный, быстрый и безопасный браузер. Он создан специально для Android. В Chrome вам доступны персонализированные новости, быстрый переход на любимые сайты, скачивание контента, а также встроенные Google Поиск и Google Переводчик.",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/0w3ycgp4n8qdi9i76bvax/Chrome_v57-0-2987-132.apk?rlkey=1cgh85qnwjpvravg68pz5vvdo&st=vudslnws&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/Chrome_v57-0-2987-132.apk?ref_type=heads&inline=false",
       "category": "Web Браузеры"
     }
     ]
