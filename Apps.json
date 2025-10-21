@@ -3,13 +3,13 @@
   {
       "title": "ЭФИР ТВ+",
       "description": "Смотрите российские каналы в прямом эфире в HD.",
-      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/EfirTV_v4.1.0_Mod.apk?ref_type=heads&inline=false",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/EfirTV4.2.2.apk?inline=false",
       "category": "Телевидение"
       },
          {
       "title": "МУЛЬТФИЛЬМЫ",
       "description": "Приложение предлагает широкий выбор мультфильмов для детей всех возрастов. От классических советских мультфильмов до популярных зарубежных сериалов, таких как «Том и Джерри», «Утиные истории», «Русалочка», «Аладдин» и многих других.",
-      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/cartoons.apk?ref_type=heads&inline=false",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/cartoons.apk?inline=false",
       "category": "Телевидение"
       },
               {
@@ -34,25 +34,23 @@
       "category": "Резервирование данных"
       },
          {
-      "title": "𝐀𝐜𝐞 𝐒𝐞𝐫𝐯𝐞 𝟏.𝟎",
+      "title": "𝐀𝐜𝐞 𝐒𝐞𝐫𝐯𝐞 𝟏.𝟑.𝟐",
       "description": "AceStrem Server для просмотра Торрент ТВ
 - это сервер (не плеер)
-- версия AceStrem Engine (3.2.8)
 - нет рекламы и пауз
 - автоматический старт при старте Android
 - версия ARM7 для 32-битных систем ",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/vnly1zzkirl7j2g00ll69/aceserve_1.0_armeabi-v7a.apk?rlkey=8b28fh3jc8d0rjo81yz1j77pu&st=z8o7otrh&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/org.free.aceserve-1.3.2-arm.apk?inline=false",
       "category": "Торрент"
       },
          {
-      "title": "𝔸𝕔𝕖 𝕊𝕖𝕣𝕧𝕖 𝟙.𝟘",
+      "title": "𝔸𝕔𝕖 𝕊𝕖𝕣𝕧𝕖 𝟙.𝟛.𝟚",
       "description": "AceStrem Server для просмотра Торрент ТВ
 - это сервер (не плеер)
-- версия AceStrem Engine (3.2.8)
 - нет рекламы и пауз
 - автоматический старт при старте Android
 - версия ARMv8 для 64-битных систем",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/9n666r8zn7fussbt4dygd/aceserve_1.0_arm64.apk?rlkey=m4jy58jo6se845ononhxrye2j&st=e211m3kg&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/org.free.aceserve-1.3.2-arm64.apk?inline=false",
       "category": "Торрент"
       },
            {
@@ -245,31 +243,31 @@ Mod Info:
       {
       "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟎𝟗.𝟑𝟎𝟎",
       "description": "Регулировка громкости работает на всех устройствах и прошивках. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
-      "url": "https://www.dropbox.com/scl/fi/i2fnmfkzw5z77empxftcp/YouTubeTV_6.09.300.apk?rlkey=f50k30hw0c8lywj1z0bdt96h5&st=pvhtuip0&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/YouTubeTV_6.09.300.apk?inline=false",
       "category": "Видеохостинги"
     },
      {
       "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯𝟔.𝟐𝟒.𝟑𝟎𝟑",
       "description": "Регулировка громкости работает только на Google TV. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/qrg33a16p3oo762sffrge/YouTube_6.24.303.apk?rlkey=svgihh6odrubzy2gbmepzpxql&st=1qbd8r3d&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/YouTube_6.24.303.apk?inline=false",
       "category": "Видеохостинги"
     },
          {
       "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐊𝐢𝐝𝐬 𝐓𝐕",
       "description": "Официальное приложение YouTube для детей.",
-      "url": "https://www.dropbox.com/scl/fi/z1va93d831wzlv6mh2u66/YouTube_Kids_1.21.01.apk?rlkey=j7uw70xqdmfamlbi20zj3qczx&st=xu30raab&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/YouTube_Kids_1.21.01.apk?inline=false",
       "category": "Видеохостинги"
     },
      {
       "title": "𝐑𝐮𝐓𝐮𝐛𝐞",
       "description": "Rutube - российский онлайн-сервис для хостинга и просмотра видео.",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/xo15dzx7fzor26d9mnlve/RuTube_TV.apk?rlkey=v5hljqus2nowrm35ml3c4wxes&st=3d5eqy3h&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/RuTube_TV.apk?inline=false",
       "category": "Видеохостинги"
     },
       {
       "title": "𝐕𝐊 Видео",
       "description": "VK Видео — это шоу любимых блогеров, свежие фильмы и сериалы, любимые телеканалы, прямые эфиры, мультфильмы для детей, спортивные трансляции, музыкальные новинки и многое другое в разрешении до 4К.",
-      "url": "https://www.dropbox.com/scl/fi/544iuf3jcjradrxze9aib/VK_.apk?rlkey=dsrnlwglm718h33g1oqr1794m&st=j71umzj0&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/VK_%D0%92%D0%B8%D0%B4%D0%B5%D0%BE.apk?inline=false",
       "category": "Видеохостинги"
     },
         {
@@ -285,7 +283,7 @@ Mod Info:
       "category": "Клавиатуры"
     },
               {
-      "title": "𝐑𝐮𝐒𝐭𝐨𝐫𝐞",
+      "title": "??𝐮𝐒𝐭𝐨𝐫𝐞",
       "description": "Отечественный магазин приложений от VK для Android устройств.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/rustore.apk",
       "category": "Магазины приложений"
@@ -305,7 +303,7 @@ Mod Info:
           {
       "title": "𝐓𝐞𝐦𝐩 𝐌𝐚𝐢𝐥",
       "description": "Временная почта (Одноразовая почта).",
-      "url": "https://www.dropbox.com/scl/fi/3gyuyccrwy7c60ee9b3n0/TempMail_v4.02.apk?rlkey=p4ndleu0zh9hjnvcuuhicolu3&st=4qqpggg5&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/TempMail_v4.02.apk?inline=false",
       "category": "Другие"
   },
          {
@@ -359,7 +357,7 @@ Mod Info:
     {
       "title": "𝐭𝐯𝐐𝐮𝐢𝐜𝐤𝐀𝐜𝐭𝐢𝐨𝐧𝐬",
       "description": "tvQuickActions позволяет назначить до 5 действий на одну кнопку пульта ДУ и добавить много полезных функций своему устройству.",
-      "url": "https://www.dropbox.com/scl/fi/9zoda2qqz621sv4v86ohe/tvQuickActions_Pro_v3.6.0_341.apk?rlkey=i6kx07wcxggj9rmkx0ue17743&st=y6ay3m9j&dl=1",
+      "url": "https://gitlab.com/sharedlinktv/apps/-/raw/main/tvQuickActions_Pro_v3.6.0_341.apk?inline=false",
       "category": "Другие"
     },
     {
