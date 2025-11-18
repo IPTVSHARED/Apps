@@ -255,7 +255,7 @@ Mod Info:
     {
       "title": "𝐒𝐦𝐚𝐫𝐭𝐓𝐮𝐛𝐞𝐓𝐕 #𝐬𝐭𝐚𝐛𝐥𝐞",
       "description": "Стабильная, проверенная пользователями версия. Шанс на то, что она перестанет работать, сбросит настройки или сделает что-то неожиданное близок к 0. Если вы хотите просто пользоваться приложением - выбирайте именно её.",
-      "url": "https://www.dropbox.com/scl/fi/wz2iafm3tn3b4stlup2pk/SmartTube_stable_30.19_armeabi-v7a.apk?rlkey=wh1ixhtnsmigkuzw0i8sgp6by&st=kr085sjq&dl=1",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/SmartTube.apk",
       "category": "Видеохостинги"
     },
          {
