@@ -56,7 +56,7 @@
            {
       "title": "𝐓𝐨𝐫𝐫𝐒𝐞𝐫𝐯𝐞",
       "description": "Программа для просмотра торрент (фильма) онлайн или скачивать другие торрент файлы как http файл. Подключение к торренту идет локально, если ваш провайдер блокирует торренты, будьте осторожны. Кэш хранится в оперативной памяти, по этому не портится внутренняя память.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TorrServe_MatriX.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/TorrServe.apk",
       "category": "Торрент"
       },
              {
@@ -144,7 +144,7 @@ Mod Info:
       "category": "Онлайн-Кинотеатры"
     },
         {
-      "title": "𝐇𝐃𝐫𝐞𝐳𝐤𝐚𝐓𝐕",
+      "title": "𝐇??𝐫𝐞𝐳𝐤𝐚𝐓𝐕",
       "description": "Не официальное приложение для просмотра фильмов и сериалов, в приложении доступна авторизация под своим логином и паролем. Для регистрации нужно отправить пустое письмо на почту mirror@hdrezka.org",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/HDrezkaTV_v1.4.0.apk",
       "category": "Онлайн-Кинотеатры"
@@ -158,7 +158,7 @@ Mod Info:
     {
       "title": "Кино HD",
       "description": "Онлайн-Кинотеатр, который позволяет просматривать фильмы и сериалы через интернет. В базе программы практически сразу после премьеры появляются новинки мирового проката.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/KINOHD_3.5.7_ADSOFF.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/KinoHD.apk",
       "category": "Онлайн-Кинотеатры"
     },
     {
@@ -176,7 +176,7 @@ Mod Info:
          {
       "title": "𝐏𝐫𝐢𝐬𝐦𝐚 𝐓𝐕",
       "description": "Prisma TV — онлайн-кинотеатр для Андроид с огромным выбором фильмов и сериалов, который постоянно обновляется и дополняется новыми релизами. Это изменённая версия приложения Lampa, но в отличие от него, все модули поиска и воспроизведения уже интегрированы в приложение, а в конфигурации нужно лишь при необходимости настроить интерфейс под слабое устройство и выбрать плеер для воспроизведения контента (внешний или внутренний).",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/Prisma_v0.7.2_fix.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/PRISMA.apk",
       "category": "Онлайн-Кинотеатры"
     },
     {
@@ -207,7 +207,7 @@ Mod Info:
       "description": "NUM (No UI Movies) — это программа для поиска фильмов и сериалов на торрент-трекере.
 - Автоматический поиск торрент-раздач и magnet-ссылок по трекерам Rutor, MegaPeer, Rutracker, Torlook и The Pirate Bay;
 - Для просмотра торрентов онлайн потребуется установленный сервер TorrServe.",
-      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/NUM_1.0.143.apk",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/NUM.apk",
       "category": "Онлайн-Кинотеатры"
     },
         {
