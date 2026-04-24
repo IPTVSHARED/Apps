@@ -149,6 +149,12 @@ Mod Info:
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/HDrezkaTV_v1.4.0.apk",
       "category": "Онлайн-Кинотеатры"
     },
+        {
+      "title": "HDRezka_app",
+      "description": "Официальное приложение для просмотра фильмов, сериалов, мультфильмов и аниме с одноимённого онлайн-ресурса. Оно предоставляет доступ к обширной базе контента в высоком качестве без рекламы.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/hdrezka_app.apk",
+      "category": "Онлайн-Кинотеатры"
+    },
        {
       "title": "𝐋𝐚𝐳𝐲𝐌𝐞𝐝𝐢𝐚 𝐃𝐞𝐥𝐮𝐱𝐞",
       "description": "LazyMedia Deluxe представляет собой мульти-каталог, позволяющий найти практически любой видео контент, который доступен из свободных источников.",
