@@ -150,9 +150,15 @@ Mod Info:
       "category": "Онлайн-Кинотеатры"
     },
         {
-      "title": "HDRezka_app",
+      "title": "HDRezka App",
       "description": "Официальное приложение для просмотра фильмов, сериалов, мультфильмов и аниме с одноимённого онлайн-ресурса. Оно предоставляет доступ к обширной базе контента в высоком качестве без рекламы.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/hdrezka_app.apk",
+      "category": "Онлайн-Кинотеатры"
+    },
+        {
+      "title": "Movielab",
+      "description": "Онлайн-кинотеатр с поддержкой Android-TV. Платформа позволяет создавать библиотеку фильмов, просматривать сериалы и другую медиапродукцию, а также обсуждать кинопроизведения с другими пользователями.",
+      "url": "https://www.dropbox.com/scl/fi/6j5hrvs8rqzvnqo4dh9uu/movielab_tv.apk?rlkey=tkaazqwdhbty2fespxb2xbyb0&st=msayd82g&dl=1",
       "category": "Онлайн-Кинотеатры"
     },
        {
