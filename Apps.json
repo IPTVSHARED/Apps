@@ -144,19 +144,19 @@ Mod Info:
       "category": "Онлайн-Кинотеатры"
     },
         {
-      "title": "HDRezkaTV",
+      "title": "𝐇𝐃𝐑𝐞𝐳𝐤𝐚𝐓𝐕",
       "description": "Не официальное приложение для просмотра фильмов и сериалов, в приложении доступна авторизация под своим логином и паролем. Для регистрации нужно отправить пустое письмо на почту mirror@hdrezka.org",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/HDrezkaTV_v1.4.0.apk",
       "category": "Онлайн-Кинотеатры"
     },
         {
-      "title": "HDRezka App",
+      "title": "𝐇𝐃𝐑𝐞𝐳𝐤𝐚 𝐀𝐩𝐩",
       "description": "Официальное приложение для просмотра фильмов, сериалов, мультфильмов и аниме с одноимённого онлайн-ресурса. Оно предоставляет доступ к обширной базе контента в высоком качестве без рекламы.",
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/hdrezka_app.apk",
       "category": "Онлайн-Кинотеатры"
     },
         {
-      "title": "Movielab",
+      "title": "𝐌𝐨𝐯𝐢𝐞𝐥𝐚𝐛",
       "description": "Онлайн-кинотеатр с поддержкой Android-TV. Платформа позволяет создавать библиотеку фильмов, просматривать сериалы и другую медиапродукцию, а также обсуждать кинопроизведения с другими пользователями.",
       "url": "https://www.dropbox.com/scl/fi/6j5hrvs8rqzvnqo4dh9uu/movielab_tv.apk?rlkey=tkaazqwdhbty2fespxb2xbyb0&st=msayd82g&dl=1",
       "category": "Онлайн-Кинотеатры"
@@ -167,6 +167,12 @@ Mod Info:
       "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LazyMediaDeluxe-PRO.apk",
       "category": "Онлайн-Кинотеатры"
     },
+       {
+      "title": "𝐋𝐢𝐟𝐭",
+      "description": "Бесплатный просмотр более 88 000 фильмов и сериалов без рекламы и подписок. Приложение работает на мобильных устройствах и ТВ. Без рекламы, не требует подписок и регулярно пополняется свежими релизами во всех жанрах.",
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/Apps/refs/heads/main/LiftTV.apk",
+      "category": "Онлайн-Кинотеатры"
+     },
     {
       "title": "Кино HD",
       "description": "Онлайн-Кинотеатр, который позволяет просматривать фильмы и сериалы через интернет. В базе программы практически сразу после премьеры появляются новинки мирового проката.",
