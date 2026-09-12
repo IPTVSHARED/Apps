@@ -289,12 +289,6 @@ Mod Info:
       "url": "https://www.dropbox.com/scl/fi/ubhx0hwt20xlz6nzbtm1a/YouTubeTV_6.09.300.apk?rlkey=vfka3au06dw020cmwjqa7aalf&st=p8hapyhf&dl=1",
       "category": "Видеохостинги"
     },
-     {
-      "title": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞𝐓𝐕 𝐯6.26.300",
-      "description": "Регулировка громкости работает только на Google TV. Смотрите свои любимые видеозаписи на YouTube на вашем большом экране.",
-      "url": "https://www.dropbox.com/scl/fi/tkcod7ajvamrsju3k29eu/YouTube_6.26.300.apk?rlkey=lpl6xswc0jsu8fmc4vqc01o9l&st=jacs2eq8&dl=1",
-      "category": "Видеохостинги"
-    },
     {
       "title": "𝐒𝐦𝐚𝐫𝐭𝐓𝐮𝐛𝐞𝐓𝐕 #𝐬𝐭𝐚𝐛𝐥𝐞",
       "description": "Стабильная, проверенная пользователями версия. Шанс на то, что она перестанет работать, сбросит настройки или сделает что-то неожиданное близок к 0. Если вы хотите просто пользоваться приложением - выбирайте именно её.",
@@ -311,6 +305,12 @@ Mod Info:
       "title": "𝐑𝐮𝐓𝐮𝐛𝐞",
       "description": "Rutube - российский онлайн-сервис для хостинга и просмотра видео.",
       "url": "https://www.dropbox.com/scl/fi/1ud1gcsvnfsoskpcsqkxt/RuTube_TV.apk?rlkey=5isehwzz5x66gevlliz3adesh&st=l43m2ohv&dl=1",
+      "category": "Видеохостинги"
+    },
+      {
+      "title": "𝐑𝐮𝐓𝐮𝐛𝐞 [ⳝⲉⳅ ⲣⲉⲕⲗⲁⲙы]",
+      "description": "Rutube - российский онлайн-сервис для хостинга и просмотра видео.",
+      "url": "http://83.222.10.153/Uploads/RuTube_TV_NoADS.apk",
       "category": "Видеохостинги"
     },
       {
